@@ -1,0 +1,92 @@
+body {
+   background-color: darkred;
+   text-align: center;
+   }
+h1 {
+    color: chocolate;
+    }
+p {
+    color:blanchedalmond
+
+    }
+
+    @media (max-width: 426px) {
+        .img {
+            max-width: 100%;
+            max-height: auto;
+        } 
+        .h1 {
+            color: chocolate;
+            font-size: 4rem;
+            max-width: 100%;
+            max-height: auto;
+           
+           
+           } 
+    } 
+
+    @media (min-width: 120px) {
+        .img {
+            max-width: 100%;
+            max-height: auto;
+        } 
+        .h1 {
+            color: chocolate;
+            font-size: 4rem;
+            max-width: 100%;
+            max-height: auto;
+           
+           
+           } 
+    } 
+  
+
+    @media (max-width: 760px) {
+        .img {
+            max-width: 100%;
+            max-height: auto;
+        } 
+        .h1 {
+            color: chocolate;
+            font-size: 4rem;
+            max-width: 100%;
+            max-height: auto;
+           
+           
+           } 
+    } 
+  
+
+
+    @media (max-width: 1440px) {
+        .img {
+            max-width: 100%;
+            max-height: auto;
+        } 
+        .h1 {
+            color: chocolate;
+            font-size: 4rem;
+            max-width: 100%;
+            max-height: auto;
+           
+           
+           } 
+    } 
+  
+  
+
+    @media (max-width: 3860px) {
+        .img {
+            max-width: 100%;
+            max-height: auto;
+        } 
+        .h1 {
+            color: chocolate;
+            font-size: 4rem;
+            max-width: 100%;
+            max-height: auto;
+           
+           
+           } 
+    } 
+  
